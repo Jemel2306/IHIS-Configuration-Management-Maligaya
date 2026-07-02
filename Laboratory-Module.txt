@@ -1,1 +1,3 @@
-Create Laboratory-Module.txt
+Laboratory Module
+Version: 1.0
+Status: Approved Baseline
